@@ -13,9 +13,6 @@
  */
 package com.easemob.chatuidemo.adapter;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import android.content.Context;
 import android.text.TextUtils;
 import android.util.Log;
@@ -29,14 +26,14 @@ import android.widget.ImageView;
 import android.widget.SectionIndexer;
 import android.widget.TextView;
 
-import com.easemob.chat.EMChatManager;
-import com.easemob.chat.EMConversation;
 import com.easemob.chatuidemo.Constant;
 import com.easemob.chatuidemo.R;
 import com.easemob.chatuidemo.domain.User;
 import com.easemob.chatuidemo.utils.UserUtils;
-import com.easemob.chatuidemo.widget.Sidebar;
 import com.easemob.util.EMLog;
+
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * 简单的好友Adapter实现
@@ -115,7 +112,7 @@ public class ContactAdapter extends ArrayAdapter<User>  implements SectionIndexe
 		    holder.nameTextview.setText(user.getNick());
 		    holder.avatar.setImageResource(R.drawable.groups_icon);
 		}else if(username.equals(Constant.CHAT_ROOM)){
-            //群聊item
+            //聊天室item
             holder.nameTextview.setText(user.getNick());
             holder.avatar.setImageResource(R.drawable.groups_icon);
 		}else if(username.equals(Constant.CHAT_ROBOT)){

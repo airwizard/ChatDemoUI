@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">moodle</string>
+    <string name="action_settings">Settings</string>
+    <string name="request_fail_text">Request failed!</string>
+</resources>

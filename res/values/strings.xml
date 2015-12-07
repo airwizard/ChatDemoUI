@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    
-    <string name="app_name">HuanXin UI Demo</string>
+    <string name="all_rights_reserved">Copyright © 2015 - 2016 HKU. All Rights Reserved.</string>
+    <string name="app_name">Moodle Chat</string>
     <string name="text_ack_msg">Read</string>
     <string name="text_delivered_msg">Delivered</string>
     <string name="back">Back</string>

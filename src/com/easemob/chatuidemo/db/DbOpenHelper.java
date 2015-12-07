@@ -16,13 +16,23 @@ package com.easemob.chatuidemo.db;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-
-import com.easemob.applib.controller.HXSDKHelper;
+import android.os.Environment;
 
 public class DbOpenHelper extends SQLiteOpenHelper{
 
 	private static final int DATABASE_VERSION = 4;
 	private static DbOpenHelper instance;
+
+	private static String mSdRootPath = Environment.getExternalStorageDirectory().getPath();
+	private static String mDataRootPath = null;
+	private final static String FOLDER_NAME3 = "/hku/database";
+
+
+	private static final String REGISTERED_USER_TABLE_CREATE = "CREATE TABLE "
+			+ RegisterDao.TABLE_NAME + "("
+			+ RegisterDao.COLUMN_NAME_ID + " INTEGER PRIMARY KEY AUTOINCREMENT, "
+			+ RegisterDao.COLUMN_NAME_REGISTERED_USER_NAME +" VARCHAR)";
+
 
 	private static final String USERNAME_TABLE_CREATE = "CREATE TABLE "
 			+ UserDao.TABLE_NAME + " ("
@@ -54,21 +64,26 @@ public class DbOpenHelper extends SQLiteOpenHelper{
 	
 	private DbOpenHelper(Context context) {
 		super(context, getUserDatabaseName(), null, DATABASE_VERSION);
+		mDataRootPath = context.getCacheDir().getPath();
 	}
 	
 	public static DbOpenHelper getInstance(Context context) {
 		if (instance == null) {
 			instance = new DbOpenHelper(context.getApplicationContext());
+
 		}
 		return instance;
 	}
 	
 	private static String getUserDatabaseName() {
-        return  HXSDKHelper.getInstance().getHXId() + "_demo.db";
+        //return  HXSDKHelper.getInstance().getHXId() + "_demo.db";
+		return Environment.getExternalStorageState().equals(Environment.MEDIA_MOUNTED)
+				? mSdRootPath + FOLDER_NAME3 : mDataRootPath + FOLDER_NAME3;
     }
 	
 	@Override
 	public void onCreate(SQLiteDatabase db) {
+		db.execSQL(REGISTERED_USER_TABLE_CREATE);
 		db.execSQL(USERNAME_TABLE_CREATE);
 		db.execSQL(INIVTE_MESSAGE_TABLE_CREATE);
 		db.execSQL(CREATE_PREF_TABLE);

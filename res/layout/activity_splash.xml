@@ -2,16 +2,22 @@
     android:id="@+id/splash_root"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="@drawable/splash" >
+    android:background="@color/green_hku" >
 
-    <ImageView
+    <!--<ImageView
         android:id="@+id/iv_splash_logo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:src="@drawable/splash_logo" />
+        android:src="@drawable/splash_logo" />-->
+    <ImageView
+        android:id="@+id/iv_splash_logo"
+        android:layout_width="180dp"
+        android:layout_height="200dp"
+        android:src="@drawable/hku"
+        android:layout_centerInParent="true"/>
 
-    <TextView
+    <!--<TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/iv_splash_logo"
@@ -19,7 +25,17 @@
         android:layout_marginTop="20dip"
         android:text="即时通讯云领导者"
         android:textColor="#fff"
-        android:textSize="30sp" />
+        android:textSize="30sp" />-->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/all_rights_reserved"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="12sp" />
+
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -27,7 +43,8 @@
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="50dip"
         android:gravity="center_horizontal"
-        android:orientation="horizontal" >
+        android:orientation="horizontal"
+        android:visibility="gone">
 
         <TextView
             android:layout_width="wrap_content"

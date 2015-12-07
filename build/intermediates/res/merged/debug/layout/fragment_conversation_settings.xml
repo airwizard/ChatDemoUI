@@ -253,7 +253,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="50dip"
                     android:background="@drawable/btn_bottom_selector"
-                    android:padding="10dip" >
+                    android:padding="10dip"
+                    android:visibility="gone">
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -299,7 +300,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="50dip"
                     android:background="@drawable/btn_bottom_selector"
-                    android:padding="10dip" >
+                    android:padding="10dip"
+                     android:visibility="gone">
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -321,7 +323,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="50dip"
                     android:background="@drawable/btn_bottom_selector"
-                    android:padding="10dip" >
+                    android:padding="10dip"
+                     android:visibility="gone">
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -347,7 +350,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="50dip"
                     android:background="@drawable/btn_bottom_selector"
-                    android:padding="10dip" >
+                    android:padding="10dip"
+                    android:visibility="gone">
 
                     <TextView
                         android:layout_width="wrap_content"
