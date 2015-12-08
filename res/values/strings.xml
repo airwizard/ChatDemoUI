@@ -282,7 +282,7 @@
     <string name="nickname">NickName</string>
     <string name="dl_title_upload_photo">Upload Photo</string>
     <string name="dl_msg_local_upload">Local Upload</string>
-    <string name="dl_msg_take_photo">Task Photo</string>
+    <string name="dl_msg_take_photo">Take Photo</string>
     <string name="toast_no_support">No Support!</string>
     <string name="setting_nickname">Setting nickname</string>
     <string name="dl_ok">OK</string>

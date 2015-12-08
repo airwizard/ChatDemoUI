@@ -1,7 +1,5 @@
 package com.easemob.chatuidemo.activity;
 
-import java.io.ByteArrayOutputStream;
-
 import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;
 import android.app.ProgressDialog;
@@ -30,6 +28,8 @@ import com.easemob.chatuidemo.R;
 import com.easemob.chatuidemo.domain.User;
 import com.easemob.chatuidemo.utils.UserUtils;
 import com.squareup.picasso.Picasso;
+
+import java.io.ByteArrayOutputStream;
 
 public class UserProfileActivity extends BaseActivity implements OnClickListener{
 	
@@ -146,20 +146,23 @@ public class UserProfileActivity extends BaseActivity implements OnClickListener
 	private void uploadHeadPhoto() {
 		AlertDialog.Builder builder = new Builder(this);
 		builder.setTitle(R.string.dl_title_upload_photo);
-		builder.setItems(new String[] { getString(R.string.dl_msg_take_photo), getString(R.string.dl_msg_local_upload) },
+		builder.setItems(new String[] { /*getString(R.string.dl_msg_take_photo),*/ getString(R.string.dl_msg_local_upload) },
 				new DialogInterface.OnClickListener() {
 
 					public void onClick(DialogInterface dialog, int which) {
 						dialog.dismiss();
 						switch (which) {
 						case 0:
-							Toast.makeText(UserProfileActivity.this, getString(R.string.toast_no_support),
-									Toast.LENGTH_SHORT).show();
-							break;
-						case 1:
+							/*Toast.makeText(UserProfileActivity.this, getString(R.string.toast_no_support),
+									Toast.LENGTH_SHORT).show();*/
 							Intent pickIntent = new Intent(Intent.ACTION_PICK,null);
 							pickIntent.setDataAndType(MediaStore.Images.Media.EXTERNAL_CONTENT_URI, "image/*");
 							startActivityForResult(pickIntent, REQUESTCODE_PICK);
+							break;
+						case 1:
+							/*Intent pickIntent = new Intent(Intent.ACTION_PICK,null);
+							pickIntent.setDataAndType(MediaStore.Images.Media.EXTERNAL_CONTENT_URI, "image*//*");
+							startActivityForResult(pickIntent, REQUESTCODE_PICK);*/
 							break;
 						default:
 							break;
