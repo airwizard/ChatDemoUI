@@ -35,5 +35,6 @@
         android:layout_height="match_parent"
         android:background="@android:color/transparent"
         android:divider="@null"
+
         />
 </LinearLayout>
