@@ -58,18 +58,18 @@
         <dex dex="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/build/intermediates/pre-dexed/debug/android-support-v4-fbebe38eac25cfebe7d6723a5bd2ac9ff847fecc.jar" />
     </item>
     <item
-        jar="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/libs/google-play-services.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f0d8e4a84fad131bc291c3c4850afcaa8ba0b299">
-        <dex dex="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/build/intermediates/pre-dexed/debug/google-play-services-b3fcff06ccc9c98d2df5fc8eabdb0a9cdd8f378c.jar" />
-    </item>
-    <item
         jar="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/libs/locSDK_3.3.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
         <dex dex="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/build/intermediates/pre-dexed/debug/locSDK_3.3-427d279ef0f427b0daf53fb8a533dcaef8b05536.jar" />
+    </item>
+    <item
+        jar="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/libs/google-play-services.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f0d8e4a84fad131bc291c3c4850afcaa8ba0b299">
+        <dex dex="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/build/intermediates/pre-dexed/debug/google-play-services-b3fcff06ccc9c98d2df5fc8eabdb0a9cdd8f378c.jar" />
     </item>
 
 </items>

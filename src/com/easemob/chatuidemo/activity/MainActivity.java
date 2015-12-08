@@ -114,13 +114,13 @@ public class MainActivity extends BaseActivity implements EMEventListener {
 			// 三个fragment里加的判断同理
 		    DemoHXSDKHelper.getInstance().logout(true,null);
 			finish();
-			startActivity(new Intent(this, LoginActivity.class));
+			startActivity(new Intent(this, moodle.activity.LoginActivity.class));
 			return;
 		} else if (savedInstanceState != null && savedInstanceState.getBoolean("isConflict", false)) {
 			// 防止被T后，没点确定按钮然后按了home键，长期在后台又进app导致的crash
 			// 三个fragment里加的判断同理
 			finish();
-			startActivity(new Intent(this, LoginActivity.class));
+			startActivity(new Intent(this, moodle.activity.LoginActivity.class));
 			return;
 		}
 		setContentView(R.layout.activity_main);
@@ -962,7 +962,7 @@ public class MainActivity extends BaseActivity implements EMEventListener {
 						dialog.dismiss();
 						conflictBuilder = null;
 						finish();
-						startActivity(new Intent(MainActivity.this, LoginActivity.class));
+						startActivity(new Intent(MainActivity.this, moodle.activity.LoginActivity.class));
 					}
 				});
 				conflictBuilder.setCancelable(false);
