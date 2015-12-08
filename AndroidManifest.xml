@@ -49,7 +49,9 @@
             android:name="moodle.activity.LoginActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="adjustResize|stateVisible"></activity>
+            android:windowSoftInputMode="adjustUnspecified|stateHidden"
+            android:configChanges="orientation|keyboardHidden"
+            ></activity>
         <!--Moodle End-->
 
         <!--IM Begin-->

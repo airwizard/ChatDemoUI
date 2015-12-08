@@ -63,4 +63,4 @@
             android:layout_toLeftOf="@id/ll_chatcontent" />
     </RelativeLayout>
 
-</LinearLayout><!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/layout/row_received_menu.xml -->
+</LinearLayout><!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/layout/row_received_menu.xml -->

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/values/vpi__attrs.xml -->
+    <!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/values/vpi__attrs.xml -->
     <eat-comment/>
     <attr format="boolean" name="centered"/>
     <attr format="color" name="selectedColor"/>
     <attr format="dimension" name="strokeWidth"/>
     <attr format="color" name="unselectedColor"/>
-    <!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/values/vpi__defaults.xml -->
+    <!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/values/vpi__defaults.xml -->
     <eat-comment/>
     <bool name="default_circle_indicator_centered">true</bool>
     <bool name="default_circle_indicator_snap">false</bool>
     <bool name="default_line_indicator_centered">true</bool>
     <bool name="default_title_indicator_selected_bold">true</bool>
     <bool name="default_underline_indicator_fades">true</bool>
-    <!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/values/colors.xml -->
+    <!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/values/colors.xml -->
     <eat-comment/>
     <color name="aliceblue">#F0F8FF</color>
     <color name="antiquewhite">#FAEBD7</color>
@@ -41,8 +41,8 @@
     <color name="btn_green_pressed">#6FCD78</color>
     <color name="btn_login_normal">#00acff</color>
     <color name="btn_login_pressed">#46678d</color>
-    <color name="btn_logout_normal">#d33f3f</color>
-    <color name="btn_logout_pressed">#DA5A4D</color>
+    <color name="btn_logout_normal">@color/orangered</color>
+    <color name="btn_logout_pressed">@color/crimson</color>
     <color name="btn_pressed_green_solid">#B6DA53</color>
     <color name="btn_register_normal">#ffffff</color>
     <color name="btn_register_pressed">#00acff</color>
@@ -55,7 +55,7 @@
     <color name="common_bg">#fcfcfc</color>
     <color name="common_bottom_bar_normal_bg">#2d2f31</color>
     <color name="common_bottom_bar_selected_bg">#161718</color>
-    <color name="common_botton_bar_blue">#2ea7e0</color>
+    <color name="common_botton_bar_blue">@color/green_hku</color>
     <color name="common_top_bar_blue">#4ebcd3</color>
     <color name="coral">#FF7F50</color>
     <color name="cornflowerblue">#6495ED</color>
@@ -83,7 +83,7 @@
     <color name="darkviolet">#9400D3</color>
     <color name="deeppink">#FF1493</color>
     <color name="deepskyblue">#00BFFF</color>
-    <!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/values/vpi__defaults.xml -->
+    <!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/values/vpi__defaults.xml -->
     <eat-comment/>
     <color name="default_circle_indicator_fill_color">#999999</color>
     <color name="default_circle_indicator_page_color">#00000000</color>
@@ -94,7 +94,7 @@
     <color name="default_title_indicator_selected_color">#FFFFFFFF</color>
     <color name="default_title_indicator_text_color">#BBFFFFFF</color>
     <color name="default_underline_indicator_selected_color">#FF33B5E5</color>
-    <!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/values/colors.xml -->
+    <!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/values/colors.xml -->
     <eat-comment/>
     <color name="dimgray">#696969</color>
     <color name="dimgrey">#696969</color>
@@ -113,7 +113,7 @@
     <color name="gray_normal">#666667</color>
     <color name="gray_pressed">#b5b5b6</color>
     <color name="green">#008000</color>
-    <color name="green_hku">#66CC33</color>
+    <color name="green_hku">#6ac160</color>
     <color name="greenyellow">#ADFF2F</color>
     <color name="grey">#808080</color>
     <color name="grid_state_focused">#80000000</color>
@@ -201,7 +201,7 @@
     <color name="teal">#008080</color>
     <color name="thistle">#D8BFD8</color>
     <color name="tomato">#FF6347</color>
-    <color name="top_bar_normal_bg">#00acff</color>
+    <color name="top_bar_normal_bg">@color/green_hku</color>
     <color name="turquoise">#40E0D0</color>
     <color name="violet">#EE82EE</color>
     <color name="voip_interface_text_color">#bababa</color>
@@ -215,14 +215,14 @@
     <declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle"><enum name="none" value="0"/><enum name="triangle" value="1"/><enum name="underline" value="2"/></attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition"><enum name="bottom" value="0"/><enum name="top" value="1"/></attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable>
     <declare-styleable name="UnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable>
     <declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable>
-    <!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/values/dimens.xml -->
+    <!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="call_button_padding_left">25dp</dimen>
     <dimen name="call_button_padding_right">25dp</dimen>
     <dimen name="call_button_padding_vertical">10dp</dimen>
-    <!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/values/vpi__defaults.xml -->
+    <!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/values/vpi__defaults.xml -->
     <eat-comment/>
     <dimen name="default_circle_indicator_radius">2.5dp</dimen>
     <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
@@ -237,7 +237,7 @@
     <dimen name="default_title_indicator_text_size">15dp</dimen>
     <dimen name="default_title_indicator_title_padding">5dp</dimen>
     <dimen name="default_title_indicator_top_padding">7dp</dimen>
-    <!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/values/dimens.xml -->
+    <!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="field_margin_right">5dp</dimen>
     <dimen name="field_textsize">14sp</dimen>
@@ -249,14 +249,14 @@
     <dimen name="padding_search_bar">5dp</dimen>
     <dimen name="sidebar_text_size">10dp</dimen>
     <dimen name="size_avatar">50dp</dimen>
-    <!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/values/vpi__defaults.xml -->
+    <!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/values/vpi__defaults.xml -->
     <eat-comment/>
     <integer name="default_circle_indicator_orientation">0</integer>
     <integer name="default_title_indicator_footer_indicator_style">2</integer>
     <integer name="default_title_indicator_line_position">0</integer>
     <integer name="default_underline_indicator_fade_delay">300</integer>
     <integer name="default_underline_indicator_fade_length">400</integer>
-    <!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/values/strings.xml -->
+    <!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/values/strings.xml -->
     <eat-comment/>
     <string name="Add_a_button_was_clicked">Add a button was clicked</string>
     <string name="Add_a_friend">Let me to be your friend!</string>
@@ -551,7 +551,7 @@
     <string name="voice_call">[Voice call]</string>
     <string name="yangshengqi">Use speaker</string>
     <string name="you_are_group">You have been kicked off from the group</string>
-    <!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/values/styles.xml -->
+    <!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/values/styles.xml -->
     <eat-comment/>
     <style name="AnimBottom" parent="@android:style/Animation">
         <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>

@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/settings_selected" android:state_selected="true"/>
     <item android:drawable="@drawable/settings_normal"/>
 
-</selector><!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/drawable/tab_setting_bg.xml -->
+</selector><!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/drawable/tab_setting_bg.xml -->
