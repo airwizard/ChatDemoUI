@@ -75,11 +75,7 @@
         </activity>
 
         <!-- 登陆 -->
-        <activity
-            android:name="com.easemob.chatuidemo.activity.LoginActivity"
-            android:screenOrientation="portrait"
-            android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="adjustResize|stateVisible" />
+
 
         <!-- 注册 -->
         <activity

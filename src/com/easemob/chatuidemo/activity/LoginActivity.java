@@ -43,8 +43,6 @@ import com.easemob.chatuidemo.db.UserDao;
 import com.easemob.chatuidemo.domain.User;
 import com.easemob.chatuidemo.utils.CommonUtils;
 
-import moodle.util.L;
-
 /**
  * 登录页面
  * 
