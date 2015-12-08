@@ -46,12 +46,13 @@
                     android:gravity="bottom|left"
                     android:paddingLeft="10dip"
                     android:text="@string/notify"
+                    android:visibility="gone"
                     android:textColor="@color/btn_gray_pressed" />
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="1dip"
-                    android:background="@color/btn_gray_normal" />
+                    android:background="#E6E6E6" />
             </LinearLayout>
 
             <LinearLayout
@@ -73,8 +74,7 @@
                         android:paddingLeft="10dip"
                         android:text="@string/newnotify"
                         android:textColor="@android:color/black"
-                        android:textSize="14sp"
-                        android:typeface="serif" />
+                        android:textSize="14sp" />
 
                     <ImageView
                         android:id="@+id/iv_switch_open_notification"
@@ -117,8 +117,7 @@
                         android:paddingLeft="10dip"
                         android:text="@string/voice"
                         android:textColor="@android:color/black"
-                        android:textSize="14sp"
-                        android:typeface="serif" />
+                        android:textSize="14sp" />
 
                     <ImageView
                         android:id="@+id/iv_switch_open_sound"
@@ -161,8 +160,7 @@
                         android:paddingLeft="10dip"
                         android:text="@string/shake"
                         android:textColor="@android:color/black"
-                        android:textSize="14sp"
-                        android:typeface="serif" />
+                        android:textSize="14sp" />
 
                     <ImageView
                         android:id="@+id/iv_switch_open_vibrate"
@@ -188,7 +186,6 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="10dip"
                     android:layout_marginRight="10dip"
-                    android:layout_marginTop="10dip"
                     android:orientation="vertical" >
 
                     <TextView
@@ -197,13 +194,15 @@
                         android:gravity="bottom|left"
                         android:paddingLeft="10dip"
                         android:text="@string/chatset"
+                        android:visibility="gone"
                         android:textColor="@color/btn_gray_pressed" />
 
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="1dip"
-                        android:background="@color/btn_gray_normal" />
+                        android:background="#E6E6E6" />
                 </LinearLayout>
+
 
                 <RelativeLayout
                     android:id="@+id/rl_switch_speaker"
@@ -219,8 +218,7 @@
                         android:paddingLeft="10dip"
                         android:text="@string/yangshengqi"
                         android:textColor="@android:color/black"
-                        android:textSize="14sp"
-                        android:typeface="serif" />
+                        android:textSize="14sp" />
 
                     <ImageView
                         android:id="@+id/iv_switch_open_speaker"
@@ -246,7 +244,7 @@
                     android:layout_height="1dip"
                     android:layout_marginLeft="10dp"
                     android:layout_marginRight="10dp"
-                    android:background="@color/btn_gray_normal" />
+                    android:background="#E6E6E6" />
 
                 <LinearLayout
                     android:id="@+id/ll_black_list"
@@ -271,13 +269,15 @@
                     android:layout_height="1dip"
                     android:layout_marginLeft="10dp"
                     android:layout_marginRight="10dp"
-                    android:background="@color/btn_gray_normal" />
+                    android:visibility="gone"
+                    android:background="#E6E6E6" />
                 <LinearLayout
                      android:id="@+id/ll_user_profile"
                     android:layout_width="match_parent"
                     android:layout_height="50dip"
                     android:background="@drawable/btn_bottom_selector"
-                    android:padding="10dip" >
+                    android:padding="10dip"
+               >
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -294,7 +294,8 @@
                     android:layout_height="1dip"
                     android:layout_marginLeft="10dp"
                     android:layout_marginRight="10dp"
-                    android:background="@color/btn_gray_normal" />
+                    android:visibility="gone"
+                    android:background="#E6E6E6" />
                  <LinearLayout
                      android:id="@+id/ll_diagnose"
                     android:layout_width="match_parent"
@@ -309,6 +310,7 @@
                         android:layout_gravity="center_vertical"
                         android:paddingLeft="10dip"
                         android:text="@string/diagnose"
+                        android:visibility="gone"
                         android:textColor="@android:color/black"
                         android:textSize="14sp" />
                 </LinearLayout>
@@ -317,7 +319,8 @@
                     android:layout_height="1dip"
                     android:layout_marginLeft="10dp"
                     android:layout_marginRight="10dp"
-                    android:background="@color/btn_gray_normal" />
+                    android:background="#E6E6E6"
+                    android:visibility="gone"/>
                  <LinearLayout
                      android:id="@+id/ll_set_push_nick"
                     android:layout_width="match_parent"
@@ -333,7 +336,8 @@
                         android:paddingLeft="10dip"
                         android:text="@string/push_nick"
                         android:textColor="@android:color/black"
-                        android:textSize="14sp" />
+                        android:textSize="14sp"
+                        android:visibility="gone"/>
                 </LinearLayout>
             </LinearLayout>
 
@@ -404,11 +408,12 @@
                     android:layout_marginBottom="12dp"
                     android:layout_marginLeft="10dip"
                     android:layout_marginRight="10dip"
-                    android:layout_marginTop="12dp"
+                    android:layout_marginTop="60dp"
                     android:background="@drawable/btn_style_alert_dialog_special"
                     android:text="@string/button_logout"
                     android:textColor="@android:color/white"
-                    android:textSize="18sp" />
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
             </LinearLayout>
         </LinearLayout>
     </ScrollView>

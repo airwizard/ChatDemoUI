@@ -535,7 +535,7 @@
     <string name="text_delivered_msg">Delivered</string>
     <string name="the_current_group">The current group has been dismissed</string>
     <string name="the_current_network">The current network is not available, please check the network Settings</string>
-    <string name="title_user_profile">User Profile</string>
+    <string name="title_user_profile">My Profile</string>
     <string name="toast_nick_not_isnull">nick cannot be empty!</string>
     <string name="toast_no_support">No Support!</string>
     <string name="toast_updatenick_fail">update nickname fail!</string>

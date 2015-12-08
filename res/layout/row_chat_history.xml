@@ -40,6 +40,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="7dp"
         android:layout_marginTop="6dp"
+        android:layout_marginRight="60dp"
         android:maxLines="1"
         android:ellipsize="end"
         android:layout_toRightOf="@id/avatar_container"
