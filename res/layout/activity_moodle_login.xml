@@ -57,8 +57,10 @@
             <EditText android:id="@+id/txt_UserName"
                 android:layout_width="fill_parent"
                 android:layout_height="30dp"
+                android:paddingLeft="5dp"
                 android:layout_marginTop="5dip"
                 android:layout_marginBottom="10dip"
+                android:textColor="#ffffff"
                 android:background="@drawable/bar11"
                 android:singleLine="true"/>
 
@@ -73,7 +75,9 @@
                 android:layout_width="fill_parent"
                 android:layout_height="30dp"
                 android:layout_marginTop="5dip"
+                android:paddingLeft="5dp"
                 android:singleLine="true"
+                android:textColor="#ffffff"
                 android:password="true"
                 android:layout_marginBottom="20dip"
                 android:background="@drawable/bar11"/>
