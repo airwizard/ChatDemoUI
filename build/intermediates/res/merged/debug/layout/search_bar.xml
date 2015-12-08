@@ -38,4 +38,4 @@
         android:src="@drawable/search_clear"
         android:visibility="invisible" />
 
-</RelativeLayout><!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/layout/search_bar.xml -->
+</RelativeLayout><!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/layout/search_bar.xml -->

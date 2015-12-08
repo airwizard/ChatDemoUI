@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/values-ru-rRU/strings.xml -->
+    <!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/values-ru-rRU/strings.xml -->
     <eat-comment/>
     <string name="Application_and_notify">Заявки и уведомления</string>
     <string name="Current_version">Предыдущая версия</string>

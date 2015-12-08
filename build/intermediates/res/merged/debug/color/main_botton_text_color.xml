@@ -3,4 +3,4 @@
     <item android:state_selected="true" android:color="@color/common_botton_bar_blue" />
     <item android:color="@android:color/white" />
 </selector>
-<!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/color/main_botton_text_color.xml -->
+<!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/color/main_botton_text_color.xml -->

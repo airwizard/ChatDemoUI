@@ -14,6 +14,7 @@
 package com.easemob.chatuidemo.activity;
 
 import android.app.ProgressDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -37,6 +38,8 @@ import com.easemob.chatuidemo.Constant;
 import com.easemob.chatuidemo.DemoHXSDKHelper;
 import com.easemob.chatuidemo.DemoHXSDKModel;
 import com.easemob.chatuidemo.R;
+
+import moodle.util.NoticeDialog;
 
 /**
  * 设置界面
@@ -324,7 +327,17 @@ public class SettingsFragment extends Fragment implements OnClickListener {
 		    }
 		    break;
 		case R.id.btn_logout: //退出登陆
-			logout();
+			NoticeDialog.confirm(getActivity(), "Confirm to logout?", new DialogInterface.OnClickListener() {
+				@Override
+				public void onClick(DialogInterface dialog, int which) {
+					logout();
+				}
+			}, new DialogInterface.OnClickListener() {
+				@Override
+				public void onClick(DialogInterface dialog, int which) {
+
+				}
+			});
 			break;
 		case R.id.ll_black_list:
 			startActivity(new Intent(getActivity(), BlacklistActivity.class));

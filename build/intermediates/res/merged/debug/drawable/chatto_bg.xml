@@ -5,4 +5,4 @@
     <item android:state_pressed="true" android:drawable="@drawable/chatto_bg_focused" />
     <item android:state_selected="true" android:drawable="@drawable/chatto_bg_focused" />
     <item android:drawable="@drawable/chatto_bg_normal" />
-</selector><!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/drawable/chatto_bg.xml -->
+</selector><!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/drawable/chatto_bg.xml -->

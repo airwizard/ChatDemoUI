@@ -5,4 +5,4 @@
     <item android:drawable="@drawable/chat_location_pressed" android:state_enabled="false"/>
     <item android:drawable="@drawable/chat_location_normal"/>
 
-</selector><!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/drawable/chat_location_selector.xml -->
+</selector><!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/drawable/chat_location_selector.xml -->

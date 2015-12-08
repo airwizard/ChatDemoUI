@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/values-zh-rCN/strings.xml -->
+    <!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/values-zh-rCN/strings.xml -->
     <eat-comment/>
     <string name="Add_a_button_was_clicked">添加按钮被点击</string>
     <string name="Add_a_friend">加个好友呗</string>

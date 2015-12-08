@@ -52,4 +52,4 @@
         android:text="@string/forward"
         android:textColor="@android:color/black"
         android:textSize="20sp" />
-</LinearLayout><!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/layout/context_menu_for_text.xml -->
+</LinearLayout><!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/layout/context_menu_for_text.xml -->

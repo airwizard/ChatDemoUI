@@ -5,4 +5,4 @@
         android:id="@+id/remove"
         android:title="@string/move_out_backlist"/>
 
-</menu><!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/menu/remove_from_blacklist.xml -->
+</menu><!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/menu/remove_from_blacklist.xml -->

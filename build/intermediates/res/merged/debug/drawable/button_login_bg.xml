@@ -4,4 +4,4 @@
     <item android:drawable="@color/btn_login_pressed" android:state_pressed="true"/>
     <item android:drawable="@color/btn_login_normal"/>
 
-</selector><!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/drawable/button_login_bg.xml -->
+</selector><!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/drawable/button_login_bg.xml -->

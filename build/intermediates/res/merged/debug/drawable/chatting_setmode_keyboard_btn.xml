@@ -4,4 +4,4 @@
     <item android:state_pressed="true" android:drawable="@drawable/chatting_setmode_keyboard_btn_pressed" />
     <item android:state_selected="true" android:drawable="@drawable/chatting_setmode_keyboard_btn_pressed" />
     <item android:drawable="@drawable/chatting_setmode_keyboard_btn_normal" />
-</selector><!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/drawable/chatting_setmode_keyboard_btn.xml -->
+</selector><!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/drawable/chatting_setmode_keyboard_btn.xml -->

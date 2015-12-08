@@ -405,7 +405,7 @@
                     android:layout_marginLeft="10dip"
                     android:layout_marginRight="10dip"
                     android:layout_marginTop="12dp"
-                    android:background="@drawable/btn_style_alert_dialog_special"
+                    android:background="@drawable/logout_bg"
                     android:text="@string/button_logout"
                     android:textColor="@android:color/white"
                     android:textSize="18sp" />
@@ -413,4 +413,4 @@
         </LinearLayout>
     </ScrollView>
 
-</LinearLayout><!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/layout/fragment_conversation_settings.xml -->
+</LinearLayout><!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/layout/fragment_conversation_settings.xml -->

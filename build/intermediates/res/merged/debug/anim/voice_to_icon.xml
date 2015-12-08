@@ -10,4 +10,4 @@
     <item
         android:drawable="@drawable/chatto_voice_playing_f3"
         android:duration="200" />
-</animation-list><!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/anim/voice_to_icon.xml -->
+</animation-list><!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/anim/voice_to_icon.xml -->

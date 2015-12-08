@@ -83,9 +83,9 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 19 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="umeng-analytics-v5.2.4" level="project" />
     <orderEntry type="library" exported="" name="locSDK_3.3" level="project" />
     <orderEntry type="library" exported="" name="easemobchat_2.2.4" level="project" />
-    <orderEntry type="library" exported="" name="umeng-analytics-v5.2.4" level="project" />
     <orderEntry type="library" exported="" name="android-support-v4" level="project" />
     <orderEntry type="library" exported="" name="org.apache.http.legacy" level="project" />
     <orderEntry type="library" exported="" name="picasso-2.4.0" level="project" />

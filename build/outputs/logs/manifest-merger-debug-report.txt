@@ -1,591 +1,591 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:2:1-340:12
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:2:1-340:12
 	package
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:3:5-37
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:3:5-37
 	android:versionName
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:5:5-32
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:5:5-32
 	android:versionCode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:4:5-29
-		INJECTED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml
-		INJECTED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml
+		INJECTED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:2:11-69
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:7:5-9:41
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:9:9-38
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:9:9-38
 	android:minSdkVersion
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:8:9-34
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:8:9-34
 uses-permission#android.permission.VIBRATE
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:11:5-66
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:11:5-66
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:11:22-63
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:11:22-63
 uses-permission#android.permission.INTERNET
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:12:5-67
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:12:22-64
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:12:22-64
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:13:5-71
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:13:5-71
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:13:22-68
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:13:22-68
 uses-permission#android.permission.CAMERA
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:14:5-65
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:14:5-65
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:14:22-62
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:14:22-62
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:15:5-79
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:15:5-79
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:15:22-76
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:15:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:16:5-81
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:16:5-81
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:16:22-78
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:16:22-78
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:17:5-84
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:17:5-84
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:17:22-81
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:17:22-81
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:18:5-79
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:18:5-79
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:18:22-76
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:18:22-76
 uses-permission#android.permission.GET_TASKS
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:19:5-68
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:19:5-68
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:19:22-65
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:19:22-65
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:20:5-76
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:20:5-76
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:20:22-73
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:20:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:21:5-76
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:21:5-76
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:21:22-73
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:21:22-73
 uses-permission#android.permission.WAKE_LOCK
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:22:5-68
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:22:5-68
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:22:22-65
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:22:22-65
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:23:5-80
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:23:5-80
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:23:22-77
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:23:22-77
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:24:5-75
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:24:5-75
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:24:22-72
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:24:22-72
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:25:5-81
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:25:5-81
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:25:22-78
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:25:22-78
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:26:5-71
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:26:5-71
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:26:22-68
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:26:22-68
 uses-permission#android.permission.USE_CREDENTIALS
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:27:5-74
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:27:5-74
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:27:22-71
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:27:22-71
 uses-permission#android.permission.MANAGE_ACCOUNTS
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:28:5-74
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:28:5-74
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:28:22-71
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:28:22-71
 uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:29:5-80
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:29:5-80
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:29:22-77
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:29:22-77
 uses-permission#com.android.launcher.permission.READ_SETTINGS
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:30:5-85
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:30:5-85
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:30:22-82
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:30:22-82
 uses-permission#android.permission.BROADCAST_STICKY
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:31:5-75
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:31:5-75
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:31:22-72
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:31:22-72
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:32:5-73
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:32:5-73
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:32:22-70
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:32:22-70
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:34:5-82
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:34:5-82
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:34:22-79
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:34:22-79
 permission#com.easemob.chatuidemo.permission.C2D_MESSAGE
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:36:5-38:47
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:36:5-38:47
 	android:protectionLevel
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:38:9-44
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:38:9-44
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:37:9-69
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:37:9-69
 uses-permission#com.easemob.chatuidemo.permission.C2D_MESSAGE
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:39:5-85
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:39:5-85
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:39:22-82
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:39:22-82
 application
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:42:5-338:19
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:42:5-338:19
 	android:label
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:46:9-41
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:46:9-41
 	android:allowBackup
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:44:9-35
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:44:9-35
 	android:icon
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:45:9-45
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:45:9-45
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:43:9-39
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:43:9-39
 activity#moodle.activity.LoginActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:48:9-54:25
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:48:9-54:25
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:50:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:50:13-49
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:52:13-72
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:52:13-72
 	android:configChanges
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:53:13-63
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:53:13-63
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:51:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:51:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:49:13-57
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:49:13-57
 activity#com.easemob.chatuidemo.activity.MainActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:58:9-63:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:58:9-63:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:61:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:61:13-49
 	android:launchMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:60:13-44
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:60:13-44
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:63:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:63:13-52
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:62:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:62:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:59:13-50
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:59:13-50
 activity#com.easemob.chatuidemo.activity.SplashActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:66:9-75:20
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:66:9-75:20
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:68:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:68:13-49
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:69:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:69:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:67:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:67:13-52
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:70:13-74:29
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:70:13-74:29
 action#android.intent.action.MAIN
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:71:17-69
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:71:17-69
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:71:25-66
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:71:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:73:17-77
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:73:17-77
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:73:27-74
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:73:27-74
 activity#com.easemob.chatuidemo.activity.LoginActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:78:9-82:80
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:78:9-82:80
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:80:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:80:13-49
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:82:13-68
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:82:13-68
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:81:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:81:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:79:13-51
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:79:13-51
 activity#com.easemob.chatuidemo.activity.RegisterActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:85:9-89:80
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:85:9-89:80
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:87:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:87:13-49
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:89:13-68
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:89:13-68
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:88:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:88:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:86:13-54
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:86:13-54
 activity#com.easemob.chatuidemo.activity.ChatActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:91:9-96:67
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:91:9-96:67
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:94:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:94:13-49
 	android:launchMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:93:13-43
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:93:13-43
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:96:13-55
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:96:13-55
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:95:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:95:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:92:13-50
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:92:13-50
 activity#com.easemob.chatuidemo.activity.AddContactActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:98:9-102:67
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:98:9-102:67
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:100:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:100:13-49
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:102:13-55
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:102:13-55
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:101:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:101:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:99:13-56
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:99:13-56
 activity#com.easemob.chatuidemo.activity.GroupDetailsActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:104:9-107:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:104:9-107:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:106:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:106:13-49
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:107:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:107:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:105:13-58
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:105:13-58
 activity#com.easemob.chatuidemo.activity.GroupsActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:109:9-113:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:109:9-113:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:111:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:111:13-49
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:113:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:113:13-52
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:112:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:112:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:110:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:110:13-52
 activity#com.easemob.chatuidemo.activity.ChatRoomActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:115:9-119:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:115:9-119:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:117:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:117:13-49
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:119:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:119:13-52
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:118:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:118:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:116:13-54
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:116:13-54
 activity#com.easemob.chatuidemo.activity.ChatRoomDetailsActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:121:9-124:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:121:9-124:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:123:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:123:13-49
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:124:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:124:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:122:13-61
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:122:13-61
 activity#com.easemob.chatuidemo.activity.NewGroupActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:127:9-131:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:127:9-131:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:129:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:129:13-49
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:131:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:131:13-52
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:130:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:130:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:128:13-54
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:128:13-54
 activity#com.easemob.chatuidemo.activity.ExitGroupDialog
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:133:9-136:67
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:133:9-136:67
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:135:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:135:13-49
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:136:13-55
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:136:13-55
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:134:13-53
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:134:13-53
 activity#com.easemob.chatuidemo.activity.GroupPickContactsActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:138:9-142:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:138:9-142:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:140:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:140:13-49
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:142:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:142:13-52
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:141:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:141:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:139:13-63
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:139:13-63
 activity#com.easemob.chatuidemo.activity.BaiduMapActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:144:9-147:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:144:9-147:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:146:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:146:13-49
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:147:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:147:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:145:13-76
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:145:13-76
 activity#com.easemob.chatuidemo.activity.NewFriendsMsgActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:150:9-153:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:150:9-153:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:152:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:152:13-49
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:153:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:153:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:151:13-59
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:151:13-59
 activity#com.easemob.chatuidemo.activity.ForwardMessageActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:155:9-159:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:155:9-159:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:157:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:157:13-49
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:159:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:159:13-52
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:158:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:158:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:156:13-60
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:156:13-60
 activity#com.easemob.chatuidemo.activity.ContextMenu
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:161:9-164:61
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:161:9-164:61
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:163:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:163:13-49
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:164:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:164:13-49
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:162:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:162:13-49
 activity#com.easemob.chatuidemo.activity.AlertDialog
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:166:9-169:61
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:166:9-169:61
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:168:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:168:13-49
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:169:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:169:13-49
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:167:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:167:13-49
 activity#com.easemob.chatuidemo.activity.ShowBigImage
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:171:9-174:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:171:9-174:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:173:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:173:13-49
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:174:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:174:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:172:13-50
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:172:13-50
 activity#com.easemob.chatuidemo.activity.ShowNormalFileActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:176:9-179:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:176:9-179:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:178:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:178:13-49
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:179:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:179:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:177:13-60
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:177:13-60
 activity#com.easemob.chatuidemo.activity.BlacklistActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:181:9-184:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:181:9-184:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:183:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:183:13-49
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:184:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:184:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:182:13-55
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:182:13-55
 activity#com.easemob.chatuidemo.activity.PublicGroupsActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:187:9-191:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:187:9-191:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:189:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:189:13-49
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:191:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:191:13-52
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:190:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:190:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:188:13-58
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:188:13-58
 activity#com.easemob.chatuidemo.activity.PublicChatRoomsActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:193:9-197:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:193:9-197:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:195:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:195:13-49
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:197:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:197:13-52
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:196:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:196:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:194:13-61
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:194:13-61
 activity#com.easemob.chatuidemo.activity.VoiceCallActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:200:9-204:60
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:200:9-204:60
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:203:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:203:13-49
 	android:launchMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:202:13-44
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:202:13-44
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:204:13-48
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:204:13-48
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:201:13-55
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:201:13-55
 activity#com.easemob.chatuidemo.activity.VideoCallActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:206:9-211:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:206:9-211:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:210:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:210:13-49
 	android:launchMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:209:13-44
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:209:13-44
 	android:configChanges
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:208:13-74
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:208:13-74
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:211:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:211:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:207:13-55
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:207:13-55
 activity#com.easemob.chatuidemo.activity.GroupSimpleDetailActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:213:9-216:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:213:9-216:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:215:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:215:13-49
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:216:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:216:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:214:13-63
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:214:13-63
 activity#com.easemob.chatuidemo.activity.GroupBlacklistActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:218:9-221:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:218:9-221:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:220:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:220:13-49
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:221:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:221:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:219:13-60
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:219:13-60
 activity#com.easemob.chatuidemo.activity.PublicGroupsSeachActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:222:9-225:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:222:9-225:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:224:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:224:13-49
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:225:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:225:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:223:13-63
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:223:13-63
 activity#com.easemob.chatuidemo.activity.EditActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:226:9-230:67
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:226:9-230:67
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:228:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:228:13-49
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:230:13-55
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:230:13-55
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:229:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:229:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:227:13-50
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:227:13-50
 activity#com.easemob.chatuidemo.activity.ShowVideoActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:231:9-235:72
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:231:9-235:72
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:233:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:233:13-49
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:235:13-60
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:235:13-60
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:234:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:234:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:232:13-55
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:232:13-55
 activity#com.easemob.chatuidemo.activity.ImageGridActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:237:9-241:72
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:237:9-241:72
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:239:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:239:13-49
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:241:13-60
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:241:13-60
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:240:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:240:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:238:13-55
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:238:13-55
 activity#com.easemob.chatuidemo.activity.RecorderVideoActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:242:9-246:72
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:242:9-246:72
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:244:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:244:13-49
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:246:13-60
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:246:13-60
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:245:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:245:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:243:13-59
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:243:13-59
 activity#com.easemob.chatuidemo.activity.DiagnoseActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:248:9-252:72
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:248:9-252:72
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:250:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:250:13-49
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:252:13-60
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:252:13-60
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:251:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:251:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:249:13-54
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:249:13-54
 activity#com.easemob.chatuidemo.activity.OfflinePushNickActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:255:9-259:72
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:255:9-259:72
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:257:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:257:13-49
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:259:13-60
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:259:13-60
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:258:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:258:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:256:13-61
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:256:13-61
 activity#com.easemob.chatuidemo.activity.RobotsActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:261:9-265:72
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:261:9-265:72
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:263:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:263:13-49
 	android:windowSoftInputMode
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:265:13-60
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:265:13-60
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:264:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:264:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:262:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:262:13-52
 activity#com.easemob.chatuidemo.activity.UserProfileActivity
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:267:9-270:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:267:9-270:64
 	android:screenOrientation
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:269:13-49
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:269:13-49
 	android:theme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:270:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:270:13-52
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:268:13-57
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:268:13-57
 receiver#com.easemob.chat.StartServiceReceiver
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:273:9-280:20
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:273:9-280:20
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:273:19-71
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:273:19-71
 intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON+android.intent.category.LAUNCHER
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:274:13-279:29
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:274:13-279:29
 	android:priority
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:274:28-51
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:274:28-51
 action#android.intent.action.BOOT_COMPLETED
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:275:17-79
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:275:17-79
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:275:25-76
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:275:25-76
 action#android.intent.action.QUICKBOOT_POWERON
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:276:17-82
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:276:17-82
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:276:25-79
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:276:25-79
 receiver#com.easemob.chat.EMGCMBroadcastReceiver
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:283:9-291:20
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:283:9-291:20
 	android:exported
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:285:13-36
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:285:13-36
 	android:permission
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:286:13-73
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:286:13-73
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:284:13-67
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:284:13-67
 intent-filter#com.easemob.chatuidemo+com.google.android.c2dm.intent.RECEIVE
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:287:13-290:29
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:287:13-290:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:288:17-81
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:288:17-81
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:288:25-78
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:288:25-78
 category#com.easemob.chatuidemo
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:289:17-67
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:289:17-67
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:289:27-64
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:289:27-64
 service#com.easemob.chat.EMGCMListenerService
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:293:9-295:48
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:293:9-295:48
 	android:exported
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:295:13-37
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:295:13-37
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:294:13-65
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:294:13-65
 receiver#com.easemob.chatuidemo.receiver.GCMPushBroadCast
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:297:9-304:20
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:297:9-304:20
 	android:exported
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:299:13-37
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:299:13-37
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:298:13-76
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:298:13-76
 intent-filter#com.easemob.chatuidemo+com.easemob.sdk.push
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:300:13-303:29
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:300:13-303:29
 action#com.easemob.sdk.push
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:301:17-63
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:301:17-63
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:301:25-60
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:301:25-60
 meta-data#EASEMOB_APPKEY
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:308:9-310:48
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:308:9-310:48
 	android:value
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:310:13-45
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:310:13-45
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:309:13-42
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:309:13-42
 service#com.easemob.chat.EMChatService
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:312:9-66
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:312:9-66
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:312:18-63
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:312:18-63
 receiver#com.easemob.chat.EMMonitorReceiver
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:314:9-323:20
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:314:9-323:20
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:314:19-68
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:314:19-68
 intent-filter#android.intent.action.PACKAGE_REMOVED
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:315:13-318:29
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:315:13-318:29
 action#android.intent.action.PACKAGE_REMOVED
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:316:17-80
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:316:17-80
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:316:25-77
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:316:25-77
 data
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:317:17-50
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:317:17-50
 	android:scheme
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:317:23-47
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:317:23-47
 intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:319:13-322:29
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:319:13-322:29
 action#android.intent.action.USER_PRESENT
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:321:17-77
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:321:17-77
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:321:25-74
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:321:25-74
 service#com.baidu.location.f
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:326:9-329:41
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:326:9-329:41
 	android:enabled
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:328:13-35
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:328:13-35
 	android:process
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:329:13-38
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:329:13-38
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:327:13-48
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:327:13-48
 meta-data#UMENG_APPKEY
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:331:9-333:66
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:331:9-333:66
 	android:value
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:333:13-53
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:333:13-53
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:332:13-40
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:332:13-40
 meta-data#com.baidu.lbsapi.API_KEY
-ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:334:9-336:64
+ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:334:9-336:64
 	android:value
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:336:13-61
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:336:13-61
 	android:name
-		ADDED from D:\project\gitRepo\ChatDemoUI\AndroidManifest.xml:335:13-52
+		ADDED from /Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/AndroidManifest.xml:335:13-52
