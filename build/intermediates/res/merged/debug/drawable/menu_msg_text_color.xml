@@ -5,4 +5,4 @@
     <item android:color="#99cc00" android:state_selected="true"/>
     <item android:color="@color/top_bar_normal_bg" />
 </selector>
-<!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/drawable/menu_msg_text_color.xml -->
+<!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/drawable/menu_msg_text_color.xml -->

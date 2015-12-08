@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/chat_face_pressed" android:state_selected="true"/>
     <item android:drawable="@drawable/chat_face_normal"/>
 
-</selector><!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/drawable/chat_face_selector.xml -->
+</selector><!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/drawable/chat_face_selector.xml -->

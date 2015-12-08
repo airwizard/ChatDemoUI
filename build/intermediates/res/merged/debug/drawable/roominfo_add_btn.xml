@@ -4,4 +4,4 @@
     <item android:state_focused="true" android:state_pressed="true" android:drawable="@drawable/roominfo_add_btn_pressed" />
     <item android:state_focused="false" android:state_pressed="true" android:drawable="@drawable/roominfo_add_btn_pressed" />
     <item android:state_focused="false" android:drawable="@drawable/roominfo_add_btn_normal" />
-</selector><!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/drawable/roominfo_add_btn.xml -->
+</selector><!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/drawable/roominfo_add_btn.xml -->

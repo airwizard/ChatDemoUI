@@ -6,4 +6,4 @@
         android:duration="200"
         android:fromYDelta="-50%p"
         android:toYDelta="0" />   
-</set><!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/anim/push_top_in.xml -->
+</set><!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/anim/push_top_in.xml -->

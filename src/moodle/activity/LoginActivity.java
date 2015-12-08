@@ -5,6 +5,7 @@ import android.app.AlertDialog;
 import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.graphics.Typeface;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -85,7 +86,8 @@ public class LoginActivity extends Activity implements View.OnClickListener {
 		btn_Login = (Button) findViewById(R.id.btn_Login);
 		txt_UserName = (EditText) findViewById(R.id.txt_UserName);
 		txt_UserPW = (EditText) findViewById(R.id.txt_UserPW);
-
+		txt_UserName.setTypeface(Typeface.SANS_SERIF);
+		txt_UserPW .setTypeface(Typeface.SANS_SERIF);
 		// Register the Login button to click listener
 		// Whenever the button is clicked, onClick is called
 		btn_Login.setOnClickListener(this);

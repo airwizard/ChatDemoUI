@@ -10,4 +10,4 @@
         android:id="@+id/update_groups"
         android:title="@string/update_groups"/>
 </menu>
-<!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/menu/context_tab_contact.xml -->
+<!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/menu/context_tab_contact.xml -->

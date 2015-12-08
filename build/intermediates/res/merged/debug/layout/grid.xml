@@ -36,4 +36,4 @@
         android:src="@drawable/appitem_del_btn"
         android:visibility="invisible" />
 
-</RelativeLayout><!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/layout/grid.xml -->
+</RelativeLayout><!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/layout/grid.xml -->

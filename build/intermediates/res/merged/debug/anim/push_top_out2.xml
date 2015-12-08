@@ -8,4 +8,4 @@
         android:toYScale="0"   
         android:pivotX="0"  
         android:pivotY="10%"  
-        android:duration="200" /> <!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/anim/push_top_out2.xml -->
+        android:duration="200" /> <!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/anim/push_top_out2.xml -->

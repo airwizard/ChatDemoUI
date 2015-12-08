@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/contact_list_selected" android:state_selected="true"/>
     <item android:drawable="@drawable/contact_list_normal"/>
 
-</selector><!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/drawable/tab_contact_list_bg.xml -->
+</selector><!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/drawable/tab_contact_list_bg.xml -->

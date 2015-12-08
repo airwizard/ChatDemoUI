@@ -2,74 +2,74 @@
 <items version="2" >
 
     <item
-        jar="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/libs/android-support-v4.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3b20dc871d179ba476082efe543dc1b38db46e30">
-        <dex dex="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/build/intermediates/pre-dexed/debug/android-support-v4-fbebe38eac25cfebe7d6723a5bd2ac9ff847fecc.jar" />
-    </item>
-    <item
-        jar="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/libs/Parse-1.9.4.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
-        <dex dex="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/build/intermediates/pre-dexed/debug/Parse-1.9.4-0bd57455e6caac9b33c01038b4ff126586e19cc7.jar" />
-    </item>
-    <item
-        jar="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/libs/bolts-android-1.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
-        <dex dex="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-cf736c798ddc30d7e827179f9054078dcd727627.jar" />
-    </item>
-    <item
-        jar="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/libs/picasso-2.4.0.jar"
+        jar="D:\project\gitRepo\ChatDemoUI\libs\picasso-2.4.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
-        <dex dex="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/build/intermediates/pre-dexed/debug/picasso-2.4.0-ec511aa5e4981bf2f524edfa7b6e9f8cf57d50b5.jar" />
+        <dex dex="D:\project\gitRepo\ChatDemoUI\build\intermediates\pre-dexed\debug\picasso-2.4.0-3b9e35c2dd40351190f4dc601465dce7a9caf66d.jar" />
     </item>
     <item
-        jar="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/libs/umeng-analytics-v5.2.4.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
-        <dex dex="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/build/intermediates/pre-dexed/debug/umeng-analytics-v5.2.4-09e43a7251d2121e485b7a6ad7ff5355d72c05fe.jar" />
-    </item>
-    <item
-        jar="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/libs/google-play-services.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f0d8e4a84fad131bc291c3c4850afcaa8ba0b299">
-        <dex dex="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/build/intermediates/pre-dexed/debug/google-play-services-b3fcff06ccc9c98d2df5fc8eabdb0a9cdd8f378c.jar" />
-    </item>
-    <item
-        jar="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/libs/locSDK_3.3.jar"
+        jar="D:\project\gitRepo\ChatDemoUI\libs\locSDK_3.3.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
-        <dex dex="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/build/intermediates/pre-dexed/debug/locSDK_3.3-427d279ef0f427b0daf53fb8a533dcaef8b05536.jar" />
+        <dex dex="D:\project\gitRepo\ChatDemoUI\build\intermediates\pre-dexed\debug\locSDK_3.3-5281a2790474bf107c9a3d326860577e72504a7d.jar" />
     </item>
     <item
-        jar="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/libs/baidumapapi_v3_2_0.jar"
+        jar="D:\project\gitRepo\ChatDemoUI\libs\google-play-services.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="46ca4c3c74e1ddc60b45c490485e5df05babe6a5">
-        <dex dex="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/build/intermediates/pre-dexed/debug/baidumapapi_v3_2_0-6b3cbb2b1208175945fd361b7763a1bb7f6aad68.jar" />
+        sha1="f0d8e4a84fad131bc291c3c4850afcaa8ba0b299">
+        <dex dex="D:\project\gitRepo\ChatDemoUI\build\intermediates\pre-dexed\debug\google-play-services-b153f7acc786433ef6fd81e08e972c5ed62e614e.jar" />
     </item>
     <item
-        jar="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/libs/easemobchat_2.2.4.jar"
+        jar="D:\project\gitRepo\ChatDemoUI\libs\android-support-v4.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="c608ba89a915d2a251dd9c62f930e799c786bdc2">
-        <dex dex="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/build/intermediates/pre-dexed/debug/easemobchat_2.2.4-da2e24691402a4639c6381889277ee9aa503649d.jar" />
+        sha1="3b20dc871d179ba476082efe543dc1b38db46e30">
+        <dex dex="D:\project\gitRepo\ChatDemoUI\build\intermediates\pre-dexed\debug\android-support-v4-065b69d6b9fe64d24156de2800cfef6e2aa2946e.jar" />
     </item>
     <item
-        jar="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/libs/org.apache.http.legacy.jar"
+        jar="D:\project\gitRepo\ChatDemoUI\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="D:\project\gitRepo\ChatDemoUI\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4-1888abd6d10be3f991535ac9dd0a7e195187d415.jar" />
+    </item>
+    <item
+        jar="D:\project\gitRepo\ChatDemoUI\libs\org.apache.http.legacy.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
-        <dex dex="/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/build/intermediates/pre-dexed/debug/org.apache.http.legacy-386038a382eac11113ea02258daf3d8b1068fa06.jar" />
+        <dex dex="D:\project\gitRepo\ChatDemoUI\build\intermediates\pre-dexed\debug\org.apache.http.legacy-a1bb54e4f9a96d7495616f92f7ad27ad8bee6520.jar" />
+    </item>
+    <item
+        jar="D:\project\gitRepo\ChatDemoUI\libs\baidumapapi_v3_2_0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="46ca4c3c74e1ddc60b45c490485e5df05babe6a5">
+        <dex dex="D:\project\gitRepo\ChatDemoUI\build\intermediates\pre-dexed\debug\baidumapapi_v3_2_0-c13f84ed70ac018168301f728ef3aad52dc20d0c.jar" />
+    </item>
+    <item
+        jar="D:\project\gitRepo\ChatDemoUI\libs\easemobchat_2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c608ba89a915d2a251dd9c62f930e799c786bdc2">
+        <dex dex="D:\project\gitRepo\ChatDemoUI\build\intermediates\pre-dexed\debug\easemobchat_2.2.4-69a78109f150f7aa7b87c152738a66c7a41c7f44.jar" />
+    </item>
+    <item
+        jar="D:\project\gitRepo\ChatDemoUI\libs\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="D:\project\gitRepo\ChatDemoUI\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-1a7a8c1b04649bc6561b97d5ee2f5124a7506e1a.jar" />
+    </item>
+    <item
+        jar="D:\project\gitRepo\ChatDemoUI\libs\Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="D:\project\gitRepo\ChatDemoUI\build\intermediates\pre-dexed\debug\Parse-1.9.4-2340dbe4fd2ffa368cdd4001071e5c518a298a50.jar" />
     </item>
 
 </items>

@@ -4,4 +4,4 @@
         android:id="@+id/delete_contact"
         android:title="删除联系人"/>
 	
-</menu><!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/menu/delete_contact.xml -->
+</menu><!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/menu/delete_contact.xml -->

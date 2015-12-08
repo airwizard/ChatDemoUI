@@ -6,13 +6,14 @@
     android:fillViewport="true">
     <RelativeLayout
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content" android:background="@drawable/bg3">
+        android:layout_height="wrap_content" android:background="@drawable/bg7"
+        >
 
         <!--  Header Starts-->
         <LinearLayout android:id="@+id/header"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="40dp"
+            android:layout_marginTop="55dp"
             android:paddingTop="5dip"
             android:paddingBottom="5dip"
             android:orientation="vertical"
@@ -23,7 +24,7 @@
             android:textColor="#ffffff"
             android:typeface="serif"
             android:textStyle="bold"
-            android:textSize="30sp"
+            android:textSize="35sp"
             android:text="HKU MOODLE "
             android:gravity="center"/>
             <TextView android:layout_width="fill_parent"
@@ -32,7 +33,7 @@
                 android:textColor="#ffffff"
                 android:typeface="serif"
                 android:textStyle="bold"
-                android:textSize="30sp"
+                android:textSize="35sp"
                 android:text="CHAT "
                 android:gravity="center"/>
             <!-- Logo Ends -->
@@ -44,8 +45,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="10dip"
+            android:layout_marginTop="10dp"
             android:layout_below="@id/header"
-            android:background="@drawable/bg41">
+
+            >
+
 
             <!--  PortalID Label -->
             <TextView android:layout_width="fill_parent"
@@ -53,42 +57,53 @@
                 android:layout_marginTop="20dp"
                 android:textSize="15sp"
                 android:textColor="#ffffff"
-                android:text="PortalID"/>
+                android:text="PortalID"
+                android:visibility="invisible" />
             <EditText android:id="@+id/txt_UserName"
                 android:layout_width="fill_parent"
-                android:layout_height="30dp"
+                android:layout_height="40dp"
                 android:paddingLeft="5dp"
                 android:layout_marginTop="5dip"
                 android:layout_marginBottom="10dip"
                 android:textColor="#ffffff"
-                android:background="@drawable/bar11"
-                android:singleLine="true"/>
+                android:background="@drawable/blur2"
+
+                android:singleLine="true"
+                android:hint="Portal ID"
+                android:textColorHint="@color/btn_gray_pressed_status"
+                android:typeface="sans" />
 
             <!--  Password Label -->
+
             <TextView android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:textColor="#ffffff"
                 android:textSize="15sp"
                 android:layout_marginTop="10dp"
-                android:text="Password"/>
+                android:text="Password"
+                android:visibility="invisible" />
             <EditText android:id="@+id/txt_UserPW"
                 android:layout_width="fill_parent"
-                android:layout_height="30dp"
+                android:layout_height="40dp"
                 android:layout_marginTop="5dip"
                 android:paddingLeft="5dp"
                 android:singleLine="true"
                 android:textColor="#ffffff"
                 android:password="true"
                 android:layout_marginBottom="20dip"
-                android:background="@drawable/bar11"/>
+                android:background="@drawable/blur2"
+                android:hint="Password"
+                android:textColorHint="@color/btn_gray_pressed_status"
+                android:textIsSelectable="false"
+                android:typeface="sans" />
 
             <!-- Login button -->
             <Button android:id="@+id/btn_Login"
                 android:layout_width="fill_parent"
-                android:layout_height="40dp"
+                android:layout_height="50dp"
                 android:layout_marginTop="30dip"
                 android:layout_marginBottom="20dp"
-                android:background="@drawable/butt11"
+                android:background="@drawable/login_bg"
                 android:textColor="#ffffff"
                 android:textStyle="bold"
                 android:text="Login"
@@ -102,7 +117,7 @@
         <!-- Footer Start -->
         <LinearLayout android:id="@+id/footer"
             android:layout_width="fill_parent"
-            android:layout_height="90dip"
+            android:layout_height="30dip"
             android:layout_alignParentBottom="true"
             android:orientation="vertical" >
         </LinearLayout>

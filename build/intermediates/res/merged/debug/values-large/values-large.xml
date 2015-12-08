@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/values-large/dimens.xml -->
+    <!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/values-large/dimens.xml -->
     <eat-comment/>
     <dimen name="image_thumbnail_size">148dp</dimen>
     <dimen name="image_thumbnail_spacing">2dp</dimen>

@@ -34,7 +34,8 @@
         android:text="@string/all_rights_reserved"
         android:textColor="@color/white"
         android:textStyle="bold"
-        android:textSize="12sp" />
+        android:textSize="12sp"
+        android:layout_marginBottom="20dp"/>
 
 
     <LinearLayout

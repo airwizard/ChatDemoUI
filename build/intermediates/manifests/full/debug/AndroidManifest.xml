@@ -47,9 +47,10 @@
         <!-- Moodle Begin -->
         <activity
             android:name="moodle.activity.LoginActivity"
+            android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide"
-            android:windowSoftInputMode="adjustResize|stateVisible" />
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
         <!-- Moodle End -->
 
 

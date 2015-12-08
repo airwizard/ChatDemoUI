@@ -27,4 +27,4 @@
     android:stretchMode="columnWidth"
     android:verticalSpacing="@dimen/image_thumbnail_spacing" >
 
-</GridView><!-- From: file:/Users/Daz/Android/AndroidStudioProjects/easemob-sdk-2.2.4/examples/ChatDemoUI/res/layout/image_grid_fragment.xml -->
+</GridView><!-- From: file:/D:/project/gitRepo/ChatDemoUI/res/layout/image_grid_fragment.xml -->
