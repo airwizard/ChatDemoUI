@@ -267,10 +267,11 @@ public class LoginActivity extends Activity implements View.OnClickListener {
 			@Override
 			protected void onPostExecute(String result) {
 				if (success) {
+					PreferenceUtils.setPrefString(LoginActivity.this, moodle.util.Constant.MOODLE_INFO, moodlePageContent);
 					if (registerDao.getregisteredUser(userName) != null) {
 						//parse_HTML_Source_and_Switch_Activity( moodlePageContent );
-						PreferenceUtils.setPrefString(LoginActivity.this, moodle.util.Constant.MOODLE_INFO, moodlePageContent);
-						L.e("already registered!");
+						//PreferenceUtils.setPrefString(LoginActivity.this, moodle.util.Constant.MOODLE_INFO, moodlePageContent);
+						L.e("user registered!");
 						login(userName,userPW);
 
 					} else {
