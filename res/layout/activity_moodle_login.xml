@@ -6,20 +6,35 @@
     android:fillViewport="true">
     <RelativeLayout
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content" android:background="#ffffff">
+        android:layout_height="wrap_content" android:background="@drawable/bg3">
 
         <!--  Header Starts-->
         <LinearLayout android:id="@+id/header"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:background="@layout/header_gradient"
+            android:layout_marginTop="40dp"
             android:paddingTop="5dip"
-            android:paddingBottom="5dip">
+            android:paddingBottom="5dip"
+            android:orientation="vertical"
+            android:gravity="center">
             <!-- Logo Start-->
-            <ImageView android:src="@drawable/moodle"
-                android:layout_width="wrap_content"
+            <TextView android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:typeface="serif"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:text="HKU MOODLE "
+            android:gravity="center"/>
+            <TextView android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="10dip" />
+                android:layout_marginTop="10dp"
+                android:textColor="#ffffff"
+                android:typeface="serif"
+                android:textStyle="bold"
+                android:textSize="30sp"
+                android:text="CHAT "
+                android:gravity="center"/>
             <!-- Logo Ends -->
         </LinearLayout>
         <!--  Header Ends -->
@@ -29,49 +44,54 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="10dip"
-            android:layout_below="@id/header">
+            android:layout_below="@id/header"
+            android:background="@drawable/bg41">
 
             <!--  PortalID Label -->
             <TextView android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:textColor="#372c24"
+                android:layout_marginTop="20dp"
+                android:textSize="15sp"
+                android:textColor="#ffffff"
                 android:text="PortalID"/>
             <EditText android:id="@+id/txt_UserName"
                 android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="30dp"
                 android:layout_marginTop="5dip"
-                android:layout_marginBottom="20dip"
+                android:layout_marginBottom="10dip"
+                android:background="@drawable/bar11"
                 android:singleLine="true"/>
 
             <!--  Password Label -->
             <TextView android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:textColor="#372c24"
+                android:textColor="#ffffff"
+                android:textSize="15sp"
+                android:layout_marginTop="10dp"
                 android:text="Password"/>
             <EditText android:id="@+id/txt_UserPW"
                 android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="30dp"
                 android:layout_marginTop="5dip"
                 android:singleLine="true"
-                android:password="true"/>
+                android:password="true"
+                android:layout_marginBottom="20dip"
+                android:background="@drawable/bar11"/>
 
             <!-- Login button -->
             <Button android:id="@+id/btn_Login"
                 android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="10dip"
-                android:text="Login"/>
+                android:layout_height="40dp"
+                android:layout_marginTop="30dip"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/butt11"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:text="Login"
+                android:textSize="20sp"/>
 
             <!-- Link to Registration Screen -->
-            <TextView android:id="@+id/link_to_register"
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="40dip"
-                android:layout_marginBottom="40dip"
-                android:text="New to Moodle? Register here"
-                android:gravity="center"
-                android:textSize="20dip"
-                android:textColor="#0b84aa"/>
+
         </LinearLayout>
         <!-- Login Form Ends -->
 
@@ -80,7 +100,6 @@
             android:layout_width="fill_parent"
             android:layout_height="90dip"
             android:layout_alignParentBottom="true"
-            android:background="@drawable/repeat_bg"
             android:orientation="vertical" >
         </LinearLayout>
         <!-- Footer Ends -->
