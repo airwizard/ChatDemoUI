@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="common_top_bar_blue">#4ebcd3</color>
+    <color name="common_top_bar_blue">@color/green_hku</color>
     <color name="btn_login_normal">#00acff</color>
     <color name="btn_login_pressed">#46678d</color>
     <color name="btn_logout_normal">@color/orangered</color>

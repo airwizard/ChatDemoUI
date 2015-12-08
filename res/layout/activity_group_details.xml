@@ -94,8 +94,7 @@
                     android:paddingLeft="20dip"
                     android:text="@string/group_id"
                     android:textColor="@android:color/black"
-                    android:textSize="18sp"
-                    android:typeface="serif" />
+                    android:textSize="14sp" />
                 
                   <TextView 
                     android:id="@+id/tv_group_id_value"
@@ -130,8 +129,7 @@
                     android:paddingLeft="20dip"
                     android:text="@string/group_nick"
                     android:textColor="@android:color/black"
-                    android:textSize="18sp"
-                    android:typeface="serif" />
+                    android:textSize="14sp" />
                 
                   <TextView 
                     android:id="@+id/tv_group_nick_value"
@@ -140,7 +138,7 @@
                     android:layout_centerVertical="true"
                     android:layout_toRightOf="@id/tv_group_nick"
                     android:layout_marginLeft="10dp"
-                    android:textSize="18sp"
+                    android:textSize="14sp"
                     /> 
 
                 <TextView
@@ -167,8 +165,7 @@
                     android:paddingLeft="20dip"
                     android:text="@string/Empty_the_chat_record"
                     android:textColor="@android:color/black"
-                    android:textSize="18sp"
-                    android:typeface="serif" />
+                    android:textSize="14sp" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -194,8 +191,7 @@
                     android:paddingLeft="20dip"
                     android:text="@string/Change_the_group_name"
                     android:textColor="@android:color/black"
-                    android:textSize="18sp"
-                    android:typeface="serif" />
+                    android:textSize="14sp" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -222,7 +218,7 @@
                     android:paddingLeft="20dip"
                     android:text="@string/blacklist"
                     android:textColor="@android:color/black"
-                    android:textSize="18sp"
+                    android:textSize="14sp"
                     android:typeface="serif"
                     android:visibility="visible" />
 
@@ -249,8 +245,7 @@
                     android:paddingLeft="10dip"
                     android:text="@string/Shielding_of_the_message"
                     android:textColor="@android:color/black"
-                    android:textSize="18sp"
-                    android:typeface="serif" />
+                    android:textSize="14sp" />
 
                 <ImageView
                     android:id="@+id/iv_switch_block_groupmsg"
@@ -289,7 +284,8 @@
                 android:paddingTop="7dp"
                 android:text="@string/Exit_the_group_chat"
                 android:textColor="@android:color/white"
-                android:textSize="18sp" />
+                android:textSize="18sp"
+                android:textStyle="bold" />
 
             <Button
                 android:id="@+id/btn_exitdel_grp"
@@ -305,7 +301,8 @@
                 android:text="@string/dismiss_group"
                 android:textColor="@android:color/white"
                 android:textSize="18sp"
-                android:visibility="gone" />
+                android:visibility="gone"
+                android:textStyle="bold" />
 
         </LinearLayout>
     </ScrollView>

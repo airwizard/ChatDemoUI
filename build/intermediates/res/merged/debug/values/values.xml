@@ -56,7 +56,7 @@
     <color name="common_bottom_bar_normal_bg">#2d2f31</color>
     <color name="common_bottom_bar_selected_bg">#161718</color>
     <color name="common_botton_bar_blue">@color/green_hku</color>
-    <color name="common_top_bar_blue">#4ebcd3</color>
+    <color name="common_top_bar_blue">@color/green_hku</color>
     <color name="coral">#FF7F50</color>
     <color name="cornflowerblue">#6495ED</color>
     <color name="cornsilk">#FFF8DC</color>
