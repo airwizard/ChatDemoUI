@@ -412,7 +412,7 @@
     <string name="confirm_resend">Confirm to resend？</string>
     <string name="confirm_the_members">Move this member to group blacklist?</string>
     <string name="confirmpassword">Confirm password</string>
-    <string name="connect_conflict">The same account was loggedin in other device</string>
+    <string name="connect_conflict">The same account was logged in other device</string>
     <string name="connect_failuer_toast">Please check the network or try again later</string>
     <string name="copy">Copy</string>
     <string name="copy_message">Copy message</string>
