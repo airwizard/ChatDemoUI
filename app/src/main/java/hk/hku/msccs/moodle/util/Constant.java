@@ -2,16 +2,16 @@ package hk.hku.msccs.moodle.util;
 
 public class Constant {
 	
-	public final static String DEFAULT_HENGHUAN_REQUEST_URL = "http://esgmall.oicp.net:9001";
-	public final static String DEFAULT_XIAN_REQUEST_URL = "http://sip.esgmallt.com";
-	public final static String DEFAULT_XIAN_FINAL_REQUEST_URL = "http://sip.esgcc.com.cn";
+	public final static String DEFAULT_HENGHUAN_REQUEST_URL = "";
+	public final static String DEFAULT_XIAN_REQUEST_URL = "";
+	public final static String DEFAULT_XIAN_FINAL_REQUEST_URL = "";
 	
 	public final static String SIP_USERNAME = "app";
 	public final static String SIP_PASSWORD = "111111";
 	public final static String SIP_SECRECT_KEY = "B87546BF1BED0E3BAB170C1D483CEF1E";
 
-	public final static String MOODLE_USERNAME = "dazwang";
-	public final static String MOODEL_PASSWORD = "Air649392043";
+	public final static String MOODLE_USERNAME = "";
+	public final static String MOODEL_PASSWORD = "";
 	
 	public final static Long INTERVAL = (long) (4 * 1000);
 	
